@@ -7,7 +7,7 @@ import cv2
 import sys
 import numpy as np
 
-NUM_MATCHES_FOR_HOMOGRAPHY = 4
+NUM_MATCHES_FOR_HOMOGRAPHY = 7
 
 class My_App(QtWidgets.QMainWindow):
 
